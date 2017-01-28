@@ -1,6 +1,6 @@
 name = "simple-k"
 license = "MIT"
-licenselink = "https://github.com/KervyN/simple-k/blob/master/LICENSE.md"
+licenselink = "https://raw.githubusercontent.com/KervyN/simple-k/master/LICENSE"
 description = "Minimalistic Hugo theme"
 min_version = 0.14
 
